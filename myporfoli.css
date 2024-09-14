@@ -1,0 +1,316 @@
+header{
+    width: 100%;
+    height: 120px;
+    background-color: white;
+   
+     display: flex;
+  
+  align-items: center;
+  gap: 10px;
+   position: fixed;
+   
+}
+.box1{
+    width: 20px;
+    height: 20px;
+    
+    /* padding-left: 50px; */
+
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.box2{
+ font-size: 20px;
+ font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+
+
+}
+.box4{
+
+    font-size: 15px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+     }
+ul{
+    list-style: none;
+    padding-left: 350px;
+    display: flex;
+ 
+ 
+}
+ul li{
+    
+    padding-left: 25px;
+    font-size: 15PX;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  
+}
+a{
+    text-decoration: none;
+}
+footer{
+    height: 120px;
+    width: 100%;
+    background-color:white;
+    display: flex;
+    align-items: center;
+    gap:30px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+  
+    ;
+    box-sizing: border-box;
+    
+   
+}
+.box3{
+    padding-left: 50px;
+
+}
+.box5{
+    padding-left: 390px;
+    text-align: center;
+}
+.box6{
+    text-align: center;
+}
+.box7{
+    height: 15px;
+    width: 15px;
+    padding-left: 10px;
+    line-height:200px
+
+}
+.box8{
+    height: 920px;
+    width: 500px;
+    background-color: wheat;
+    /* margin-bottom: 300px; */
+}
+.container{
+    height: 780px;
+    width: 100%;
+    display: flex;
+    /* background-color:rgba(187, 132, 29, 0.183); */
+}
+.box9{
+    height: 530px;
+    width: 400px;
+     background-color:whitesmoke;
+    box-shadow: 12px 12px 12px rgba(220, 219, 217, 0.221),-12px 12px 12px rgba(187, 132, 29, 0.221);
+  margin-top: 250px;
+  box-sizing: border-box;
+  border-bottom: 50px solid white;
+  line-height: 30px;
+  padding-top: 40PX;
+ /* position: absolute;; */
+ margin-left: 200px;
+ text-align: center;
+ margin-left: -350px;
+
+}.box10{
+    height: 20px;
+    width: 20px;
+    padding-left: 20px;
+    
+
+}
+.box11{
+    border-radius: 400px;
+    width: 200px;
+    height: 200px;
+     
+}
+.box12{
+    font-size: 90PX;
+}
+.box13{
+    height: 530px;
+    width: 400px;
+     background-color:white;
+     margin-top: 200px;
+     padding-left: 40px;
+     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.btn1{
+    padding-left: 30px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-right: 30px;
+    border-radius: 100px;
+    font-size: 15px;
+    text-align: center;
+    background-color: blue;
+    color: white;
+    text-decoration: none;
+    transition-property: background-color ;
+    transition-duration: 1S;
+    &:hover{
+        background-color: white;
+        color: black;
+        border: 2px solid;
+    }
+}
+.btn2{
+    
+        padding-left: 30px;
+        padding-top: 8px;
+        padding-bottom: 8px;
+        padding-right: 30px;
+        border-radius: 100px;
+        font-size: 15px;
+        text-align: center;
+        background-color: white;
+        border: 2px solid;
+        color: black;
+        transition-property: background-color ;
+        transition-duration: 1s;
+        &:hover{
+            background-color: blue;
+            color: white;
+            border: 2px solid;
+             ;
+        }
+    
+}
+.p{
+    font-size: 14px;
+    line-height: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.box14{
+    background-color: antiquewhite;
+}
+.container2{
+    background-color: #faebd7;
+    width: 100%;
+    height: 1700px;
+    
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+   box-sizing: border-box;
+    
+   
+}
+.box15{
+    
+    width: 700px;
+    height: 400px;
+    background-color: white;
+   
+    margin-top: -100px;
+    border-bottom: 20px solid wheat;
+   
+    
+}
+.box16{
+    margin-top: 220px;
+    
+}
+.box17{
+    /* margin-top: -500px; */
+    padding-top: 40px;
+    padding: 40px;
+    box-sizing: border-box;
+    margin-top: -100px;
+  
+}
+li{
+    list-style: none;
+}
+.box20{
+    
+    width: 700px;
+    height: 30px;
+    background-color:#faebd7; ;
+   
+   
+    
+}
+
+.box19{
+text-align: center;
+}
+.box21{
+    margin-top: -100px;
+}
+
+.box23{
+    font-size: 18px;
+
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.box24{
+    background-color: #faebd7;
+    display: block;
+}
+pre{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.box25{
+    margin-top: 100px;
+}
+.box26{
+    
+    width: 700px;
+    height: 300px;
+    background-color: white;
+   
+    margin-top: -100px;
+    border-bottom: 20px solid wheat;
+   
+   
+    
+}
+.container3{
+    background-color: #faebd7;
+    width: 100%;
+    height: 1500px;
+    
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+   box-sizing: border-box;
+    
+   
+}
+.box27{
+    height: 50px;
+    width: 600px;
+    background-color: antiquewhite;
+   
+   margin: auto;
+}
+.box28{
+    height: 500px;
+    width: 700px;
+    background-color:white;
+   
+   margin: auto;
+   border-bottom: 20px solid wheat;
+   padding: 70px;
+   box-sizing: border-box;
+   font-size: 20px;
+}
+.box29{
+    padding-left: 175px;
+}
+.input{
+    border: none;
+    border-bottom: 1px solid;
+    padding-left: 70px;
+}
+.box30{
+    padding-left: 210px;
+}
+.input1{
+    border: none;
+    border-bottom: 1px solid;
+    padding-left: 350px;
+}
+.btn3{
+    text-align: center;
+}
